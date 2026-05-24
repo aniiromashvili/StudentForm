@@ -86,3 +86,5 @@ All UI lives in `MainActivity.kt` using Composable functions:
 | `dateState` | String | Selected date (DD/MM/YYYY) |
 | `selectedOption` | String | Chosen radio direction |
 | `isAgreed` | Boolean | Switch state |
+
+<img width="1268" height="957" alt="2" src="https://github.com/user-attachments/assets/0843be83-217e-48b4-9433-7127d2c60750" />
